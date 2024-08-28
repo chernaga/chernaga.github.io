@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chernaga.github.io/sitemap.html.gz
+Sitemap: https://chernaga.github.io/app/sitemap.html.gz
+Sitemap: https://chernaga.github.io/assets/sitemap.html.gz
+Sitemap: https://chernaga.github.io/css/sitemap.html.gz
+Sitemap: https://chernaga.github.io/includes/sitemap.html.gz
+Sitemap: https://chernaga.github.io/item/sitemap.html.gz
+Sitemap: https://chernaga.github.io/src/sitemap.html.gz
